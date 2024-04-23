@@ -17,3 +17,8 @@ A simple Pythons script to download YouTube videos.
 
 # Contributing
 Pull requests, forks, and other contributions are welcome. Feel free to open an issue to discuss new features, changes, or improvements you'd like to see.
+
+# Compiles
+- Linux: main.py
+- Windows: main (windows compiled code).py
+- Cause for 2 different source codes: Using the Linux source code on Windows would break functionality.
