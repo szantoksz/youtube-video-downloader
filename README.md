@@ -22,3 +22,6 @@ Pull requests, forks, and other contributions are welcome. Feel free to open an 
 - Linux: main.py
 - Windows: main (windows compiled code).py
 - Cause for 2 different source codes: Using the Linux source code on Windows would break functionality.
+
+# Downloads
+The program will create a 'downloads' folder in the same directory as the script is and will download files there.
